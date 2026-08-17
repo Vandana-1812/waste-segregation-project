@@ -158,5 +158,5 @@ This project demonstrates how computer vision can be applied to solve a real-wor
 
 ---
 
-If you want next, I can create your **full project report (high scoring, structured)** — that’s actually the most important part for marks.
+
 
